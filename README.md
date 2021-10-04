@@ -1,6 +1,6 @@
 ### Hi there, I'm Ismail - aka [Linkedin](https://www.linkedin.com/in/ismail4promus)👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/github/commit-activity/m/ismail4promus/100-DAYS-OF-CODE?logo=github&style=for-the-badge)](GitHub)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
