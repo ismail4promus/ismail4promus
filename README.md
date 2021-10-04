@@ -1,18 +1,4 @@
-### Hi there 👋
-
-
-- 🔭 I’m currently working on my course
-- 🌱 I’m currently learning Learning Django
-- 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with Python
-- 💬 Ask me about ...i want to be a great programmer
-- 📫 How to reach me: [Facebook](https://www.facebook.com/ismail4promus), [Linkedin](https://www.linkedin.com/in/ismail4promus/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...Happy to learn!
-
-
-
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Ismail - aka [Linkedin](https://www.linkedin.com/in/ismail4promus)👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
