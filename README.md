@@ -1,8 +1,3 @@
-### Hi there, I'm Ismail - aka [Linkedin](https://www.linkedin.com/in/ismail4promus)👋
-
-[![Website](https://img.shields.io/github/commit-activity/m/ismail4promus/100-DAYS-OF-CODE?logo=github&style=for-the-badge)](GitHub)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
 ### Hi there 👋, my name is Ismail Hossain
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C4D16AQEWDTHvS5qjSg/profile-displaybackgroundimage-shrink_200_800/0/1603353929113?e=1639008000&v=beta&t=1__FZlnnfefGoR70p6L4b16DEaToVrgMiVYjluulDow)
