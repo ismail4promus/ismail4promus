@@ -15,7 +15,7 @@ Skills: Artificial Intelligence | Python | Django | Mysql | JS | HTML | CSS
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ismail4promus)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ismail4promus)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ismail4promus&show_icons=true)  
 
