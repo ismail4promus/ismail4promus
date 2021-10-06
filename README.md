@@ -11,7 +11,7 @@ Generate your metrics that you can embed everywhere, including your GitHub profi
     <th align="left">For user accounts</th>
   </tr>
   <tr>
-    <td align="center">
+    <td align="left">
       <img alt="" width="400" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.classic.svg">
       <img width="900" height="1" alt="">
     </td>
