@@ -8,7 +8,7 @@ Generate your metrics that you can embed everywhere, including your GitHub profi
 
 <table>
   <tr>
-    <th align="center">For user accounts</th>
+    <th align="left">For user accounts</th>
   </tr>
   <tr>
     <td align="center">
