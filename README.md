@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
  <a href="https://www.linkedin.com/in/ismail4promus/">
   <img src="https://img.shields.io/badge/linkedin-Timothy%20James-blue?style=flat-square&logo=linkedin">
  </a>
- <a href="mailto:tim.jameswork9800@gmail.com">
-  <img src="https://img.shields.io/badge/Email-tim.jameswork9800%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
+ <a href="mailto:ismail4promus@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ismail4promus@gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
  </a>
 </p>
 
