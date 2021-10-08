@@ -1,4 +1,4 @@
-https://img.shields.io/github/languages/count/ismail4promus/PasswordGenerator-Project
+[![CodeFactor](https://www.codefactor.io/repository/github/ismail4promus/passwordgenerator-project/badge)](https://www.codefactor.io/repository/github/ismail4promus/passwordgenerator-project)
 
 <!---
 Tim-W-James/Tim-W-James is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
