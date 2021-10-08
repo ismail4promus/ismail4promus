@@ -3,10 +3,10 @@ Tim-W-James/Tim-W-James is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-# 👋 Hullo, I’m [Tim James](https://github.com/Tim-W-James)
+# 👋 Hullo, I’m [ISMAIL](https://github.com/ismail4promus)
 <!-- https://shields.io/ -->
 <p align="center"><br/>
- <a href="https://www.linkedin.com/in/timothy-william-james/">
+ <a href="https://www.linkedin.com/in/ismail4promus/">
   <img src="https://img.shields.io/badge/linkedin-Timothy%20James-blue?style=flat-square&logo=linkedin">
  </a>
  <a href="mailto:tim.jameswork9800@gmail.com">
